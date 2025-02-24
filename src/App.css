@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+    background-color: #000;
+}
+
+input { 
+    background-color: #fff;
+    width: 80%;
+}
+
+button {
+    width: 18%;
+}
