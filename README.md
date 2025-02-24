@@ -1,6 +1,17 @@
-# React + Vite
+AI Chat App dengan Groq API (React + Vite + Tailwind)
+Ini adalah proyek website sederhana yang terhubung ke Groq API, sebuah AI mirip ChatGPT. Aplikasi ini dibuat menggunakan React JS, Vite, dan TailwindCSS untuk tampilan yang minimalis dan responsif.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔹 Fitur
+✅ Input pertanyaan dan mendapatkan jawaban dari AI
+✅ Menggunakan Groq API untuk respons AI
+✅ Dibangun dengan React JS + Vite untuk performa yang cepat
+✅ Styling dengan TailwindCSS untuk kemudahan kustomisasi
+
+⚠️ Keterbatasan
+❌ AI hanya merespons satu kali per pertanyaan (tidak menyimpan konteks percakapan sebelumnya)
+❌ Masih sangat sederhana, belum ada fitur history atau interaksi lebih lanjut
+
+🚀 Next Update: Mungkin menambahkan penyimpanan konteks percakapan atau fitur lain yang lebih interaktif.
 
 Currently, two official plugins are available:
 
